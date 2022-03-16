@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
+title: Florida Institute of Technology Exam Generator
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This is a website which allows Florida Tech Faculty create dynamic and intricate tests and quizzes.
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
