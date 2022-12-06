@@ -20,8 +20,6 @@
 
 title: Florida Tech Exam Generator
 email: nmeyer2018@my.fit.edu
-email: williamsm2018@my.fit.edu
-email: dknoblock2018@my.fit.edu
 description: >- # this means to ignore newlines until "baseurl:"
   The Florida Tech Exam Generator is a project created to help create detailed and
   customizable tests and quizzes. The goal is to create an exam generator with more
