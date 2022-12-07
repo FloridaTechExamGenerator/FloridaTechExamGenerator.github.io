@@ -12,4 +12,4 @@ This is a website which allows Florida Tech Faculty create dynamic and intricate
 
 <a href="(https://github.com/FloridaTechExamGenerator/FloridaTechExamGenerator.github.io/blob/main/FloridaTechExamGenerator.jar)" download>Click to Download</a>
 
-<a id="raw-url" href="https://github.com/FloridaTechExamGenerator/FloridaTechExamGenerator.github.io/blob/main/FloridaTechExamGenerator.jar">Download FILE</a>
+<a id="raw-url" href="https://raw.githubusercontent.com/FloridaTechExamGenerator/FloridaTechExamGenerator.github.io/blob/main/FloridaTechExamGenerator.jar">Download FILE</a>
