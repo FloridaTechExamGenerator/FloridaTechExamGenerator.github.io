@@ -14,4 +14,4 @@ This is a website which allows Florida Tech Faculty create dynamic and intricate
 
 Tutorial Videos:\
 ([https://www.youtube.com/watch?v=JLMbpiywVxQ](https://youtu.be/3nNSuTVSZbM))\
-(https://youtu.be/qQOi5IIu4cs)
+([https://www.youtube.com/watch?v=qQOi5IIu4cs&ab](https://youtu.be/qQOi5IIu4cs))
