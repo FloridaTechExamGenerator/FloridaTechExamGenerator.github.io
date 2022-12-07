@@ -12,6 +12,6 @@ This is a website which allows Florida Tech Faculty create dynamic and intricate
 
 <a href="https://github.com/FloridaTechExamGenerator/FloridaTechExamGenerator.github.io/blob/main/FloridaTechExamGenerator.jar" download>Click to go to Download</a>
 
-Tutorial Videos:
+Tutorial Videos:\
 ([https://www.youtube.com/watch?v=JLMbpiywVxQ](https://youtu.be/3nNSuTVSZbM))\
 (https://youtu.be/qQOi5IIu4cs)
