@@ -16,5 +16,5 @@ Tutorial Videos:\
 ([https://www.youtube.com/watch?v=JLMbpiywVxQ](https://youtu.be/3nNSuTVSZbM))\
 ([https://www.youtube.com/watch?v=qQOi5IIu4cs&ab](https://youtu.be/qQOi5IIu4cs))
 
-If you plan to work on this project, this tutorial explains how to add new questions:
+If you plan to work on this project, this tutorial explains how to add new questions:\
 <a href="https://github.com/FloridaTechExamGenerator/FloridaTechExamGenerator.github.io/blob/main/How_to_add_new_question.pdf" download>Click to go to Download</a>
